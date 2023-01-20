@@ -25,5 +25,6 @@ public class Ex2 {
                 System.out.println(x + " não pertence a sequência");
             }
         }
+        sc.close();
     } 
 }

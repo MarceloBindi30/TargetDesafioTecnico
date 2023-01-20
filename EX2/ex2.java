@@ -8,7 +8,7 @@ public class ex2 {
         Scanner sc = new Scanner(System.in);
         int n1 = 0, n2 = 1, n3 = 0;
 
-        System.out.println("Digite a quantidade de termos");
+        System.out.println("Digite o termo procurado: ");
         int x = sc.nextInt();
 
         if( x == 0 || x == 1){

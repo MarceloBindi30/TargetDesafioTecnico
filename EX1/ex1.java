@@ -1,6 +1,6 @@
 package EX1;
 
-public class ex1 {
+public class Ex1 {
     public static void main(String[] args) {
         int INDICE = 13;
         int K = 0;
